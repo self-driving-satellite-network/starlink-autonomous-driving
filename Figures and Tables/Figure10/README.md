@@ -1,6 +1,7 @@
 ## Figure 10: Statistics of conjunction events.
 
-<div align=center><img src="./figure10a.png" width=""><img src="./figure10b.png" width=""></div>
+<div align=center><img src="./figure10a.png" width=""></div>
+<div align=center><img src="./figure10b.png" width=""></div>
 
 ### Overview
 Figure 10 shows the distribution of event types and occurrence interval of our conjunction dataset.
