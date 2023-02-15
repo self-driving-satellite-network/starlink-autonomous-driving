@@ -19,5 +19,5 @@ Due to the large dataset, it cannot be shown here, you have two ways to get this
 
 ## References
 
-[1] Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Wei Zhao, Yimei Chen, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai, Han Qiu. A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation. To appear at ACM MobiCom 2023.
+[1] A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation. To appear at ACM MobiCom 2023.
 
