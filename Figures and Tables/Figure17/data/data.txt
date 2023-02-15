@@ -1,0 +1,6 @@
+/root/zhaow/mobicom_revision/cal_traffic_flow/result
+/root/zhaow/mobicom_revision/cal_traffic_flow/result_n_isl
+/root/zhaow/mobicom_revision/cal_traffic_flow/result_inter
+/root/zhaow/mobicom_revision/cal_traffic_flow/result_intra
+/root/zhaow/mobicom_revision/cal_traffic_flow/capacity
+

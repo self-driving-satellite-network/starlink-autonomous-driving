@@ -1,0 +1,8 @@
+/Users/liulixin/Desktop/Tsinghua/WorkSpace/tle/starlink_u_pos_cbf_3_month.npy
+/Users/liulixin/Desktop/Tsinghua/WorkSpace/tle/starlink_u_pos_3_month.npy
+/Users/liulixin/Desktop/Tsinghua/WorkSpace/tle/starlink_u_extend_m_3_month.npy
+/Users/liulixin/Desktop/Tsinghua/WorkSpace/tle/starlink_u_velocity_3_month.npy
+./data/filtered_3_month.csv
+/Users/liulixin/Desktop/Tsinghua/WorkSpace/tle/tle_starlink_3_month_0401_0712.npy
+/Users/liulixin/Desktop/Tsinghua/WorkSpace/tle/second_pos_cbf_3_month.npy
+/Users/liulixin/Desktop/Tsinghua/WorkSpace/tle/second_pos_3_month.npy
