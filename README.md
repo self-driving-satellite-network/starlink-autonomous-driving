@@ -153,11 +153,6 @@ Please indicate this repository when using it and cite our MobiCom paper [1].
 
 Please contact yuanjiel@tsinghua.edu.cn for any questions or technical support.
 
-## References
-
-[1] Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Wei Zhao, Yimei Chen, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai, Han Qiu. A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation. To appear at ACM MobiCom 2023.
-
--->
 
 ## References
 
