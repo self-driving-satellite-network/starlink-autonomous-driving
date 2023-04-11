@@ -13,7 +13,7 @@ Our experiments are based on Two-line elements from space-track.org.
 ### How to run the code
 ```
 jupyter notebook
-open nearest_neighbor.ipynb file and run notebook
+open figure16.ipynb file and run notebook
 ```
 
 ### Data
