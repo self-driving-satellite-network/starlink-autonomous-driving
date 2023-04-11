@@ -1,6 +1,6 @@
 ## Figure 30:  Satellite neighborship updates per day
 
-<div align=center><img src="./figure31.png" width=""></div>
+<div align=center><img src="./figure30.png" width=""></div>
 
 ### Overview
 Figure 31 shows satellite neighborship updates per day.
