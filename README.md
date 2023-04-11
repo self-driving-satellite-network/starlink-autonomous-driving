@@ -2,7 +2,7 @@
 
 This repository collects the artifacts of the MobiCom'23 paper "A Networking Perspective on Starlink’s Self-Drivincg LEO Mega-Constellation."
 
-<div align=center><img src="./Space-debris.png" width="100"><img src="./Space-threats.png" width="229"><img src="./Starlink-maneuver-overview.png" width="240"></div>
+<div align=center><img src="./Space-debris.png" width="110"><img src="./Space-threats.png" width="252.5"><img src="./Starlink-maneuver-overview.png" width="260"></div>
 
 ## Overview
 Low-earth-orbit (LEO) satellite mega-constellations, such as SpaceX Starlink, are under rocket-fast deployments and promise broadband Internet to remote areas that terrestrial networks cannot reach. For mission safety and sustainable uses of space, Starlink has adopted a proprietary onboard autonomous driving system for its extremely mobile LEO satellites. This paper demystifies and diagnoses its impacts on the LEO mega-constellation and satellite networks. We design a domain-specific method to characterize key components in Starlink’s autonomous driving from various public space situational awareness datasets, including continuous orbitmaintenance, collision avoidance, and maneuvers between orbital shells. Our analysis shows that, these operations have mixed impacts on the stability and performance of the entire mega-constellation, inter-satellite links, topology, and upper-layer network functions. To this end, we investigate and empirically assess the potential of networking-autonomousdriving co-designs for the upcoming satellite networks
