@@ -2,10 +2,14 @@
 
 This repository collects the artifacts of the MobiCom'23 paper "A Networking Perspective on Starlink’s Self-Drivincg LEO Mega-Constellation."
 
-## Overview
-Low-earth-orbit (LEO) satellite mega-constellations, suchas SpaceX Starlink, are under rocket-fast deployments andpromise broadband Internet to remote areas that terrestrialnetworks cannot reach. For mission safety and sustainableuses of space, Starlink has adopted a proprietary onboardau-tonomous drivingsystem for its extremely mobile LEO satel-lites. This paper demystifies and diagnoses its impacts on theLEO mega-constellation and satellite networks. We designa domain-specific method to characterize key componentsin Starlink’s autonomous driving from various public spacesituational awareness datasets, including continuous orbitmaintenance, collision avoidance, and maneuvers betweenorbital shells. Our analysis shows that, these operations havemixed impactson the stability and performance of the entiremega-constellation, inter-satellite links, topology, and upper-layer network functions. To this end, we investigate andempirically assess the potential of networking-autonomousdriving co-designs for the upcoming satellite networks
+<div align=center><img src="./Space-debris.png" width="100"><img src="./Space-threats.png" width="229"><img src="./Starlink-maneuver-overview.png" width="240"></div>
 
-<!-- <div align=center><img src="" width="100%"></div> -->
+## Overview
+Low-earth-orbit (LEO) satellite mega-constellations, such as SpaceX Starlink, are under rocket-fast deployments and promise broadband Internet to remote areas that terrestrial networks cannot reach. For mission safety and sustainable uses of space, Starlink has adopted a proprietary onboard autonomous driving system for its extremely mobile LEO satellites. This paper demystifies and diagnoses its impacts on the LEO mega-constellation and satellite networks. We design a domain-specific method to characterize key components in Starlink’s autonomous driving from various public space situational awareness datasets, including continuous orbitmaintenance, collision avoidance, and maneuvers between orbital shells. Our analysis shows that, these operations have mixed impacts on the stability and performance of the entire mega-constellation, inter-satellite links, topology, and upper-layer network functions. To this end, we investigate and empirically assess the potential of networking-autonomousdriving co-designs for the upcoming satellite networks
+
+
+
+
 
 
 ## Repository structure
@@ -17,12 +21,16 @@ This repository includes the following contents:
 			|-Starlink-TLE: Two-line elements of Starlink satellites.
 			|-Conjunction-data: Conjunction report
 		|- Figures-and-Tables: Source files of figures and tables in [1]
-			|-Figure4&8a
+			|-Figure4
 			|-Figure6
 			|-Table2
 			|-...
+		|- Space-debris.png: Space debris.
+		|- Space-threats.png: Space threats.
+		|- Starlink-maneuver-overview.png: Starlink maneuver overview.
 		|- Mobicom23.pdf: The MobiCom'23 paper.
 		|- README.md: This file.
+  
 
 
 ​	
@@ -97,8 +105,8 @@ In `MobiCom23/Figures-and-Tables/`, we release the traces used in [1]'s figures 
 - `Figure12c`: Orbital decays around Iridium
 - `Figure12d`: Orbital decays around Oneweb
 - `Figure13`: Deviations of LEO orbital parameters.
-- `Figure14`: Orbit maintenance’s impacts on ISLs.
-- `Figure15`: Neighborship updates w/o maintenance.
+- `Figure14`: Neighborship updates w/o maintenance.
+- `Figure15`: Orbit maintenance’s impacts on ISLs.
 - `Figure16`: Orbital maintenance facilitates ISL stability.
 - `Figure17`: Orbital decay’s impacts on 1,000 randomly distributed inter-satellite network traffic flows.
 - `Figure18`: Classification of collision avoidance in Starlink’s autonomous driving (the solid green line).
@@ -108,10 +116,13 @@ In `MobiCom23/Figures-and-Tables/`, we release the traces used in [1]'s figures 
 - `Figure22`: Cooperative Starlink-Starlink maneuver.
 - `Figure23a`: A showcase of unnecessary maneuver.
 - `Figure23b`: Statistical characteristics of unnecessary collision avoidances.
-- `Figure24`: ISL’s out-of-alignment by maneuvers
+- `Figure24`: Starlink’s high-risk orbital maneuver.
+- `Figure25`: ISL’s out-of-alignment by maneuvers
 - `Figure26`: Starlink’s maneuvers between multiple orbital shells.
 - `Figure27`: A showcase of inter-orbit-shell maneuver.
 - `Figure28`: The number of satellites conducting interorbit-shell maneuvers per day.
+- `Figure30`: Satellite neighborship updates per day.
+- `Figure31`: ISL’s length and delay under maneuvers.
 - `Figure32`: ISL updates in various networking schemes.
 - `Figure33`: Topology updates in various schemes.
 - `Figure34`: ISL delay in various networking schemes.
@@ -138,7 +149,7 @@ The request should include the work department, the purpose of data usage, and t
 
 Please indicate this repository when using it and cite our MobiCom paper [1].
 
-<!--## Contact
+## Contact
 
 Please contact yuanjiel@tsinghua.edu.cn for any questions or technical support.
 
