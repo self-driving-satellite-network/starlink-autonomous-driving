@@ -13,7 +13,7 @@ Our experiments are based on Two-line elements from space-track.org.
 ### How to run the code
 ```
 jupyter notebook
-open maneuver_ness_camera_ready.ipynb file and run notebook
+open figure21.ipynb file and run notebook
 ```
 
 ### Data
