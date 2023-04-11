@@ -12,10 +12,7 @@ TLE format:
 Conjunction data format:
 <div align=center><img src="./Conjunction_report_format.png" width=""></div>
 
-Due to the large dataset, it cannot be shown here, you have two ways to get this data
-
-- Contact us by email
-- Self collection
+Due to excessive data volume, this folder includes a small representative set of examples for these datasets. You can contact us to get complete data through this email yuanjiel@tsinghua.edu.cn.
 
 ## References
 
