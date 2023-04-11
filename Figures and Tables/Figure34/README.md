@@ -3,7 +3,7 @@
 <div align=center><img src="./figure34a.png" width=""><img src="./figure34b.png" width=""></div>
 
 ### Overview
-Figure 33 shows ISL delay in various networking schemes.
+Figure 34 shows ISL delay in various networking schemes.
 
 
 ### Experimental methodology
