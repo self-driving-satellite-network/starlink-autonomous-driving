@@ -1,10 +1,10 @@
-## Figure 24:  Starlink’s high-risk orbital maneuver
+## Figure 25:  ISL’s out-of-alignment by maneuvers
 
-<div align=center><img src="./figure25.png" width=""></div>
+<div align=center><img src="./figure25b.png" width=""></div>
 
 ### Overview
-Figure 25 shows Starlink’s high-risk orbital maneuver.
-This figure is to illustrate Starlink's maneuvers can still raise collision risks..
+Figure 25 shows the impact of maneuvers on ISL alignment.
+This figure is to illustrate how maneuvers impact on Point ahead angle and make ISL out-of-alignment.
 
 
 ### Experimental methodology
@@ -18,9 +18,10 @@ open figure25.ipynb file and run notebook
 ```
 
 ### Data
-The data can be found in the `figure25/` folder.
+The data can be found in the `figure24b/` folder.
 
 	|- figure25
 		|- data
-			|- 44767.csv
-			|- 47762.csv
+			|- unnecessary_neigh.npy
+			|- relative.npy
+			|- time.npy

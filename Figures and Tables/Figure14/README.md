@@ -1,11 +1,9 @@
-## Figure 14: Orbit maintenance’s impacts on ISLs.
+## Figure 14: Neighborship updates w/o maintenance.
 
-<div align=center><img src="./figure14a.png" width=""></div>
-<div align=center><img src="./figure14b.png" width=""></div>
+<div align=center><img src="./figure14.png" width=""></div>
 
 ### Overview
-Figure 14 shows orbit maintenance’s impacts on ISLs.
-This figure is to illustrate orbit maintenace conducive to stabilizing the inter-satellite link
+Figure 14 shows neighborship updates w/o maintenance.
 
 
 ### Experimental methodology
@@ -21,8 +19,7 @@ open figure14.ipynb file and run notebook
 ### Data
 The data can be found in the `figure14/` folder.
 
-	|- figure12c&d
+	|- figure14
 		|- data
-			|- sat_1541.npy
-			|- isl_data_decay.npy
-			|- isl_data_no_decay.npy
+			|- nearest_lw_0719.npy
+			|- change_time.npy
