@@ -14,7 +14,7 @@ Our experiments are based on Two-line elements from space-track.org.
 ### How to run the code
 ```
 jupyter notebook
-open decay-case.ipynb file and run notebook
+open figure12a.ipynb file and run notebook
 ```
 
 ### Data
