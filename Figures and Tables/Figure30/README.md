@@ -3,7 +3,7 @@
 <div align=center><img src="./figure30.png" width=""></div>
 
 ### Overview
-Figure 31 shows satellite neighborship updates per day.
+Figure 30 shows satellite neighborship updates per day.
 This figure is to the frequency of Starlink’s satellite neigh-borship updates.
 
 
