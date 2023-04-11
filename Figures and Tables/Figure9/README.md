@@ -17,9 +17,9 @@ open figure9.ipynb file and run notebook
 ```
 
 ### Data
-The data can be found in the `figure8&9/` folder.
+The data can be found in the `figure9/` folder.
 
-	|- figure8&9
+	|- figure9
 		|- data
 			|- data.npy
 			|- percentage.npy
