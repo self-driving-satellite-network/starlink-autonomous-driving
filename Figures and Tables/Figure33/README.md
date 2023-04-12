@@ -2,6 +2,34 @@
 
 <div align=center><img src="./figure33.png" width=""></div>
 
+<table>
+<thead>
+  <tr>
+    <th> Networking scheme</th>
+    <th> Avg. num. snapshots/day</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>4-ISL(proactive)</td>
+    <td>64.13</td>
+  </tr>
+  <tr>
+    <td>n-ISL(proactive)</td>
+    <td>51.29</td>
+  </tr>
+  <tr>
+    <td>4-ISL(reactive)</td>
+    <td>8.16</td>
+  </tr>
+  <tr>
+    <td>n-ISL(reactive)</td>
+    <td>5.92</td>
+  </tr>
+
+</tbody>
+</table>
+
 ### Overview
 Figure 33 shows topology updates in various schemes.
 
