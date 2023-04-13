@@ -18,7 +18,7 @@ open figure25.ipynb file and run notebook
 ```
 
 ### Data
-The data can be found in the `figure24b/` folder.
+The data can be found in the `figure25/` folder.
 
 	|- figure25
 		|- data
