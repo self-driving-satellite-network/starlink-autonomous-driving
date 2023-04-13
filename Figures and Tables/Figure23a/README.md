@@ -3,7 +3,7 @@
 <div align=center><img src="./figure23a.png" width=""></div>
 
 ### Overview
-Figure 23b shows a showcase of unnecessary manevuer.
+Figure 23a shows a showcase of unnecessary manevuer.
 
 
 ### Experimental methodology
@@ -19,6 +19,6 @@ open figure23a.ipynb file and run notebook
 ### Data
 The data can be found in the `figure23a/` folder.
 
-	|- figure23b
+	|- figure23a
 		|- data
 			|- starlink_dict.npy
