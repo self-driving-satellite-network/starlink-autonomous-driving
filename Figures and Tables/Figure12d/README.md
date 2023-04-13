@@ -1,4 +1,4 @@
-## Figure 12c&d: Orbital decays around Oneweb
+## Figure 12d: Orbital decays around Oneweb
 
 <div align=center><img src="./figure12d.png" width=""></div>
 
