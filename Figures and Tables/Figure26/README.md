@@ -20,7 +20,7 @@ open figure26.ipynb file and run notebook
 ### Data
 The data can be found in the `figure26/` folder.
 
-	|- figure26&28
+	|- figure26
 		|- data.txt
 		|- keys.npy
 		|- mu_dis.npy
