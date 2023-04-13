@@ -1,6 +1,6 @@
 ## Figures and Tables
 
- We release the traces used in [1]'s figures and tables, including
+ This folder includes the data and code for figures/tables in [1], including
 
 - `Figure4`: Distribution of space objects by altitudes
 - `Figure6`: An example of Starlink satellite’s maneuver behaviors
