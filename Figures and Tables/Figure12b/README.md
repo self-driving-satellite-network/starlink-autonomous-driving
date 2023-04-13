@@ -3,7 +3,7 @@
 <div align=center><img src="./figure12b.png" width=""></div>
 
 ### Overview
-Figure 12a shows heterogeneous orbital decays ifw/o orbit maintenance in Starlink.
+Figure 12b shows heterogeneous orbital decays ifw/o orbit maintenance in Starlink.
 
 
 ### Experimental methodology
