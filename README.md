@@ -43,50 +43,74 @@ We use two datasets for the empirical study and evaluation (in `MobiCom23/Datase
 
 - **Starlink TLE**: The dataset is collected from space-track.org
 - **Conjunction data**: The dataset is collected from celestrack.org
-  
-<table>
+
+
+<table width = "100%">
 <thead>
   <tr>
-    <th> Dataset Type</th>
-    <th> Starlink TLE</th>
-    <th> Conjunction data</th>
+    <th><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;</span>Dataset Type<br>
+        <span>&nbsp;&nbsp;</span></th>
+    <th><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;</span>Starlink TLE<br>
+        <span>&nbsp;&nbsp;</span></th>
+    <th>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;</span>Conjunction data<br>
+        <span>&nbsp;&nbsp;</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Dataset Source</td>
-    <td>space-track.org</td>
-    <td>celestrak.org</td>
+    <td align="center">Dataset Source</td>
+    <td align="center">space-track.org</td>
+    <td align="center">celestrak.org
+    </td>
   </tr>
   <tr>
-    <td>Time Range</td>
-    <td>2019/05-2022/07</td>
-    <td>2022/04-2022/07</td>
+    <td align="center">Time Range</td>
+    <td align="center">2019/05-2022/07</td>
+    <td align="center">2022/04-2022/07</td>
   </tr>
   <tr>
-    <td>Num. entries</td>
-    <td>41,188,538</td>
-    <td>9,350,134</td>
+    <td align="center">Num. entries</td>
+    <td align="center">41,188,538</td>
+    <td align="center">9,350,134</td>
   </tr>
   <tr>
-    <td>Entry interval</td>
-    <td>3.0-34.7 hrs</td>
-    <td>8 hrs</td>
+    <td align="center">Entry interval</td>
+    <td align="center">3.0-34.7 hrs</td>
+    <td align="center">8 hrs</td>
   </tr>
    <tr>
-    <td>Num. space objects</td>
-    <td>24,237</td>
-    <td>21,743</td>
+    <td align="center">Num. space objects</td>
+    <td align="center">24,237</td>
+    <td align="center">21,743</td>
   </tr>
   <tr>
-    <td>Orbit altitudes</td>
-    <td>162-575,074 km</td>
-    <td>239-91314 km</td>
+    <td align="center">Orbit altitudes</td>
+    <td align="center">162-575,074 km</td>
+    <td align="center">239-91314 km</td>
   </tr>
   <tr>
-    <td>Orbit inclinations</td>
-    <td>0-145°</td>
-    <td>0-145°</td>
+    <td align="center">Orbit inclinations</td>
+    <td align="center">0-145°</td>
+    <td align="center">0-145°</td>
   </tr>
 </tbody>
 </table>
