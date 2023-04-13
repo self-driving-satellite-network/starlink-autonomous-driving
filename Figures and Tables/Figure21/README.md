@@ -17,9 +17,9 @@ open figure21.ipynb file and run notebook
 ```
 
 ### Data
-The data can be found in the `figure18&19b/` folder.
+The data can be found in the `figure21/` folder.
 
-	|- figure15&27
+	|- figure21
 		|- data
 			|- stk_pc2
 				|- 14064-46578-2022-04-27 07_21_40.txt
