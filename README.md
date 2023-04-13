@@ -44,18 +44,7 @@ We use two datasets for the empirical study and evaluation (in `MobiCom23/Datase
 - **Starlink TLE**: The dataset is collected from space-track.org
 - **Conjunction data**: The dataset is collected from celestrack.org
   
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<div class="center">
-<table style="float:right">
+<table>
 <thead>
   <tr>
     <th> Dataset Type</th>
@@ -101,7 +90,6 @@ We use two datasets for the empirical study and evaluation (in `MobiCom23/Datase
   </tr>
 </tbody>
 </table>
-</div>
 
 
 
