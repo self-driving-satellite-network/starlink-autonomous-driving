@@ -178,10 +178,6 @@ The request should include the work department, the purpose of data usage, and t
 
 Please indicate this repository when using it and cite our MobiCom paper [1].
 
-## Google drive
-
-This repository is also available through Google Drive: https://drive.google.com/drive/folders/1RnK6_6A-vtkcEdrpx4Uqe70N3xYM4pn1?usp=drive_link
-
 ## Contact
 
 Please contact yuanjiel@tsinghua.edu.cn for any questions or technical support.
